@@ -1,0 +1,7 @@
+//I have a comment here now
+using System;
+// paste into main method
+    {
+      Console.WriteLine(“hello, everyone!”);
+    }
+  
