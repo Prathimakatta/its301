@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //I have a comment here
+=======
+//I have changed this file in gitHub 
+>>>>>>> 3da65ad999738044646037ae7290f334477bf8a4
 Python 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> sum=0;

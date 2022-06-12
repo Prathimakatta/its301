@@ -1,0 +1,7 @@
+//I have a comment here now from desktop on my computer.Date 12/06/2022 at 10.14
+using System;
+// paste into main method
+    {
+      Console.WriteLine(“hello, everyone!”);
+    }
+  
